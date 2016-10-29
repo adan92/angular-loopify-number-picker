@@ -12,13 +12,14 @@
     "gulp": "latest",
     "gulp-angular-templatecache": "latest",
     "gulp-concat": "latest",
-    "gulp-jshint": "latest",
+    "gulp-jshint": "^2.0.2",
+    "gulp-minify-css": "^1.2.2",
     "gulp-minify-html": "latest",
     "gulp-rename": "latest",
-    "gulp-minify-css": "^1.2.2",
     "gulp-sass": "^2.1.1",
     "gulp-uglify": "latest",
     "gulp-wrap": "latest",
+    "jshint": "^2.9.4",
     "shelljs": "latest"
   },
   "scripts": {
