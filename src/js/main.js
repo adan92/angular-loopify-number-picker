@@ -1,3 +1,3 @@
-var module = angular.module('loopify.ui.numberPicker', ['ngMaterial',
+var module = angular.module('loopify.ui.numberPicker', [
     'loopify.ui.numberPicker.templates'
 ]);
